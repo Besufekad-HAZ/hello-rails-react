@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react';
 import { useSelector, useDispatch } from 'react-redux';
-import { getRandomGreeting } from '../redux/greetingsSlice';
 import { Link } from 'react-router-dom';
+import { getRandomGreeting } from '../redux/greetingsSlice';
 
 export default function Greeting() {
   const dispatch = useDispatch();
@@ -32,8 +32,7 @@ export default function Greeting() {
   );
 }
 
-
- // <div>
-    //   <h1>Hallowwwween </h1>
-    //   <h3>{greeting}</h3>
-    // </div>
+// <div>
+//   <h1>Hallowwwween </h1>
+//   <h3>{greeting}</h3>
+// </div>

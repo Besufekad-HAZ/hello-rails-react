@@ -36,9 +36,6 @@ const greetingsSlice = createSlice({
 
 export default greetingsSlice.reducer;
 
-
-
-
 // import { createSlice, createAsyncThunk } from '@reduxjs/toolkit';
 
 // const URL = 'http://127.0.0.1:3000/api/v1/random_greeting';

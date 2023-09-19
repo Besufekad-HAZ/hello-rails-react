@@ -6,13 +6,12 @@
   0% {
     background-color: red; /* Define the initial color */
   }
+
   50% {
     background-color: blue; /* Define the intermediate color */
   }
+
   100% {
     background-color: green; /* Define the final color */
   }
 }
-
-
-/*# sourceMappingURL=application.f8344ff9b4a981675890b6c383e80583.js.map*/
