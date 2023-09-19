@@ -1,6 +1,5 @@
 <a name="readme-top"></a>
-<details>
-<summary>Table of Contents</summary>
+<h1>Table of Contents</h1>
 
 - [👋 Rails-React-App](#-Rails-React-app)
   - [🧰 Tech Stack  ](#-tech-stack--)
