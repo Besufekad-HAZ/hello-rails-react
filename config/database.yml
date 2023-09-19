@@ -1,0 +1,22 @@
+# PostgreSQL. Versions 13 and up are supported.
+#   gem install pg
+#
+#   Ensure the pg gem is defined in your Gemfile
+#   gem 'pg'
+#
+default: &default
+  adapter: postgresql
+  pool: <%= ENV.fetch("RAILS_MAX_THREADS") { 5 } %>
+  timeout: 5000
+
+development:
+  <<: *default
+  database: hello-rails_react
+
+test:
+  <<: *default
+  database: hello-rails_react
+
+production:
+  <<: *default
+  database: hello-rails_react
