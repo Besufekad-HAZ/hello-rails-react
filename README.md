@@ -61,7 +61,7 @@ Clone this repository to your desired foler.
 
 ```sh
 cd my-project
-git clone git@github.com:IndieCoderMM/hello-rails-react.git .
+git clone git@github.com:Besufekad-HAZ/hello-rails-react.git
 ```
 
 ### 📥 Installation
@@ -120,12 +120,6 @@ rails server
 ## 👨‍🚀 Author  <a name="author"></a>
 
 I am always looking for ways to improve my project. If you have any suggestions or ideas, I would love to hear from you.
-
-**Hein Thant**
-
-[![Github](https://img.shields.io/badge/GitHub-673AB7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IndieCoderMM)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hthantoo)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hthant00chk@gmail.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
