@@ -1,6 +1,5 @@
 <a name="readme-top"></a>
-<details>
-<summary>Table of Contents</summary>
+<h1>Table of Contents</h1>
 
 - [👋 Rails-React-App](#-Rails-React-app)
   - [🧰 Tech Stack  ](#-tech-stack--)
@@ -39,7 +38,7 @@ The Rails-React App is a straightforward web application designed to showcase th
 
 - Random Greetings: The app generates a random greeting each time it is loaded
 - React and Redux: The front end is built using React, and API calls are made using Redux
-- API: The back end is built using Rails, creating an API endpoint to generate a random greeting message.
+- API: The back end is built using Ruby on Rails, creating an API endpoint to generate a random greeting message.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
